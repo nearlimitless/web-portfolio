@@ -1,5 +1,5 @@
 export default function Spotlight() {
     return (
-        <h1 className="pt-10">Spotlight</h1>
+        <h1 className="pt-10">Spotlight Here</h1>
     );
 }
